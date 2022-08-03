@@ -1,0 +1,33 @@
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer_Exceptional.Form1.resources
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer_Exceptional.Properties.Resources.resources
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer Exceptional.csproj.GenerateResource.cache
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Sofer Exceptional.exe.config
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Sofer Exceptional.exe
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Sofer Exceptional.pdb
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer Exceptional.csproj.CoreCompileInputs.cache
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer Exceptional.csproj.CopyComplete
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer Exceptional.exe
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer Exceptional.pdb
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer Exceptional.exe.config
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Database1.mdf
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Database1_log.ldf
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer_Exceptional.Form2.resources
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer_Exceptional.ucTest.resources
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer_Exceptional.ucNewUser.resources
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer_Exceptional.ucTestResults.resources
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer Exceptional.csproj.AssemblyReference.cache
+D:\AtestatInfo2022\Sofer Exceptional\Sofer Exceptional\obj\Debug\Sofer_Exceptional.Form3.resources

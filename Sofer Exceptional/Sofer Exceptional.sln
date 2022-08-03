@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sofer Exceptional", "Sofer Exceptional\Sofer Exceptional.csproj", "{8CDAD999-52E8-439E-8103-6AFC42F7C6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDAD999-52E8-439E-8103-6AFC42F7C6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDAD999-52E8-439E-8103-6AFC42F7C6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDAD999-52E8-439E-8103-6AFC42F7C6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDAD999-52E8-439E-8103-6AFC42F7C6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A96662F0-9AF9-4287-BC30-3AA72C833F1B}
+	EndGlobalSection
+EndGlobal
